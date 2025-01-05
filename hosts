@@ -123896,4 +123896,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 affiliationjs.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 amazonaax.com
 # 0.0.0.0 
